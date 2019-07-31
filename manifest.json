@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "Página Inicial - CONCRETABR",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://concretabr.com.br/",
+    "short_name": "CONCRTEBR",
+    "theme_color": "transparent",
+    "description": "Temos mais de 15 (anos) de bons serviços prestados no mercado em Brasília e agora expandindo nossos serviços para outros Estados sempre primando pela qualidade e excelência de nossos serviços para o mais alto padrão de qualidade com preço justo e competitivo. <br />Não deixe de nós procurar, estaremos sempre prontos para melhor atender todas as suas necessidades com o mais alto padrão de qualidade e confiança com preços justos prezando sempre com a qualidade<br />Um Novo Conceito de Construções e Reformas Chegou Agora em Sua Cidade Profissionais Altamente Competentes para Poder Atendê-lo <br />Temos os Melhores Profissionais com Padrão de Excelência <br />Nossa filosofia e sempre agregar qualidade, agilidade prezando sempre nosso consumidor final que são vocês nosso maior patrimônio <br />",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.png",
+            "type": "image/png",
+            "sizes": "16x11"
+        }
+    ]
+}
